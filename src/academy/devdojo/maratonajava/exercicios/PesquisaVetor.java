@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.devdojo.maratonajava.exercicios;
 
 import java.util.Scanner;
 
@@ -15,7 +15,6 @@ public class PesquisaVetor {
 		numero = Integer.parseInt(scr.nextLine());
 
 		for (int posicao = 0; posicao < 5; posicao++) {
-
 			if (vetor[posicao] == numero) {
 				System.out.printf("Encontrado na posição " + posicao + "\n");
 				achou = true;

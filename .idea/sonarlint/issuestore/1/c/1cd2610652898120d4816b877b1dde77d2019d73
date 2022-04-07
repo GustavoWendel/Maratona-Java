@@ -1,0 +1,37 @@
+
+Z
+java:S1854"=Remove this useless assignment to local variable "caractere".(­…Ü”8 ›Ñÿ/
+`
+java:S1854">Remove this useless assignment to local variable "idadeShort".(™´Ñşÿÿÿÿ8 ›Ñÿ/
+_
+java:S1854
+"=Remove this useless assignment to local variable "idadeByte".(Á„Äóüÿÿÿÿ8 ›Ñÿ/
+]
+java:S1854	"@Remove this useless assignment to local variable "salarioFloat".(íÈÛÔ8 ›Ñÿ/
+^
+java:S1854"ARemove this useless assignment to local variable "salarioDouble".(Š¼„8 ›Ñÿ/
+]
+java:S1854"@Remove this useless assignment to local variable "numeroGrande".(»Ş´é8 ›Ñÿ/
+[
+java:S1854"9Remove this useless assignment to local variable "idade".(ñÓ…Üıÿÿÿÿ8 ›Ñÿ/
+L
+java:S1481"*Remove this unused "idade" local variable.(ñÓ…Üıÿÿÿÿ8£ ›Ñÿ/
+N
+java:S1481"1Remove this unused "numeroGrande" local variable.(»Ş´é8£ ›Ñÿ/
+O
+java:S1481"2Remove this unused "salarioDouble" local variable.(Š¼„8£ ›Ñÿ/
+N
+java:S1481	"1Remove this unused "salarioFloat" local variable.(íÈÛÔ8£ ›Ñÿ/
+P
+java:S1481
+".Remove this unused "idadeByte" local variable.(Á„Äóüÿÿÿÿ8£ ›Ñÿ/
+Q
+java:S1481"/Remove this unused "idadeShort" local variable.(™´Ñşÿÿÿÿ8¨ ›Ñÿ/
+Q
+java:S1481"/Remove this unused "verdadeiro" local variable.(ŠŸ¦‰øÿÿÿÿ8¨ ›Ñÿ/
+L
+java:S1481"*Remove this unused "falso" local variable.(œÏ×Äùÿÿÿÿ8¨ ›Ñÿ/
+K
+java:S1481".Remove this unused "caractere" local variable.(­…Ü”8¨ ›Ñÿ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¨ ›Ñÿ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¨ ›Ñÿ/

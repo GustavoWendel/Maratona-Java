@@ -11,5 +11,15 @@ Rsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.j
 Osrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java,4\8\48a5bd79169d69a1a20b51a415e5dcaa77c4bd3a
 A
 Maratona-Java.iml,d\4\d449d46f95fbd4a1511964ac0a58bba5b6c6846d
-€
-Psrc/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimencionais01.java,d\d\ddeed09720250c49ac2f289d3bb02b9314253c67
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java,3\2\327fb0d382b7c314c0c6b1152390681cc394a95d
+v
+Fsrc/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java,1\c\1cd2610652898120d4816b877b1dde77d2019d73
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java,b\b\bbec25b51642ade9f754d580683df0fb5391dbd9
+ƒ
+Ssrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.java,2\6\26bceb636f0290d4786d2d30f2ddd6250842a542
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java,7\c\7c174170a0d16af4054c4933be0763ba5f7f8449
+†
+Vsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.java,8\9\897fb2410a98d8bd7b3460fe7fb7f7228f02cb95
