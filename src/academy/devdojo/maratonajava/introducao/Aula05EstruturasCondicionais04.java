@@ -5,24 +5,24 @@ import java.util.Scanner;
 public class Aula05EstruturasCondicionais04 {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        double salarioAnual;
-        double primeiraFaixa = 9.70 / 100;
-        double segundaFaixa = 37.35 / 100;
-        double terceiraFaixa = 49.50 / 100;
-        double valorImposto = 0;
+        Scanner input = new Scanner(System.in);
+        System.out.println("Entre com o valor do seu salário: ");
+        double salario = input.nextDouble();
 
-        System.out.println("Digite o seu salário anual: ");
-        salarioAnual = sc.nextDouble();
-
-        if (salarioAnual <= 34712) {
-            valorImposto = salarioAnual * primeiraFaixa;
-        } else if (salarioAnual >= 34713 && salarioAnual<= 68507) {
-            valorImposto = salarioAnual * segundaFaixa;
-        } else if (salarioAnual >= 68508) {
-            valorImposto = salarioAnual * terceiraFaixa;
+        double taxaImpostoRendaPagar = 0;
+        if(salario <= 1903.98) {
+            System.out.println("Isento de pagar o imposto de renda");
+        } else if (salario >= 1903.99 && salario <= 2826.65) {
+            taxaImpostoRendaPagar = salario * 7.5 / 100;
+        } else if (salario >= 2826.66  && salario <= 3751.05) {
+            taxaImpostoRendaPagar = salario * 15 / 100;
+        } else if (salario >= 3751.06   && salario <= 4664.68) {
+            taxaImpostoRendaPagar = salario * 22.5 / 100;
+        } else {
+            taxaImpostoRendaPagar = salario * 27.5 / 100;
         }
-        System.out.println(valorImposto);
 
+        System.out.println("Seu salário = " + salario);
+        System.out.println("Total a declarar no imposto de renda = " + taxaImpostoRendaPagar);
     }
 }

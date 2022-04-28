@@ -1,0 +1,17 @@
+
+d
+java:S1854"IRemove this useless assignment to local variable "taxaCrescimentoAnualB".(óŠ×Êüÿÿÿÿ
+d
+java:S1854"IRemove this useless assignment to local variable "taxaCrescimentoAnualA".(’ˆþáùÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ
+I
+java:S1481"3Remove this unused "quantidadeAnos" local variable.(†¿™Ñ
+U
+java:S1481":Remove this unused "taxaCrescimentoAnualA" local variable.(’ˆþáùÿÿÿÿ
+U
+java:S1481":Remove this unused "taxaCrescimentoAnualB" local variable.(óŠ×Êüÿÿÿÿ
+E
+java:S1481"*Remove this unused "count" local variable.(²Ìéœþÿÿÿÿ

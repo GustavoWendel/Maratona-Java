@@ -1,0 +1,11 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ
+>
+java:S1481	"(Remove this unused "dia" local variable.(‡©²Ä
+Q	java:S125"<This block of commented-out lines of code should be removed.(×Ýô
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ñîž­
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(§­¦âûÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(«æˆ¢þÿÿÿÿ
