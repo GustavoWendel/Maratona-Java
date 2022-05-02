@@ -1,8 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑòŸùýÿÿÿÿ
-\
-java:S3457"AFormat specifiers should be used instead of string concatenation.(Å¥·âúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Å¥·âúÿÿÿÿ
-=
-java:S1125"'Remove the unnecessary boolean literal.(”ÌÿÂ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ”­¢

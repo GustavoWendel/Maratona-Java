@@ -29,8 +29,6 @@ Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java
 Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java,a\c\acd9d1a142cc4d6c63991f4d869538b01e4d2e59
 l
 <src/academy/devdojo/maratonajava/exercicios/ExibeMatriz.java,a\9\a9aec1b0969d4be50de9abeecdb36b4df4ddc90a
-n
->src/academy/devdojo/maratonajava/exercicios/PesquisaVetor.java,7\b\7bb9ea3e3dd7fae6254e726248bc5d68f3d4fdcb
 Å
 Qsrc/academy/devdojo/maratonajava/exercicios/Exercicio01EstruturasDeRepeticao.java,4\4\4451d140e4aa8f66eca950df64492377c183ac4f
 Ä
