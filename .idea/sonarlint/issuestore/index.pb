@@ -47,3 +47,11 @@ Qsrc/academy/devdojo/maratonajava/exercicios/Exercicio10EstruturasDeRepeticao.ja
 Qsrc/academy/devdojo/maratonajava/exercicios/Exercicio09EstruturasDeRepeticao.java,d\6\d60fdc3290c34e8a8b39e538ecc2d94de7d38fd9
 €
 Psrc/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimencionais01.java,d\d\ddeed09720250c49ac2f289d3bb02b9314253c67
+
+Qsrc/academy/devdojo/maratonajava/exercicios/Exercicio03EstruturasDeRepeticao.java,4\d\4d8c5d2994b953c0c3ddb92e379a9b072229bbaf
+
+Qsrc/academy/devdojo/maratonajava/exercicios/Exercicio02EstruturasDeRepeticao.java,2\0\20208832c6a7d810aab9bb13fd9a8da0fb09d94c
+j
+:src/academy/devdojo/maratonajava/exerciciouri/Uri1060.java,5\1\51dae3ecbae0ca46ad0f7f9251109e4200055357
+n
+>src/academy/devdojo/maratonajava/exercicios/PesquisaVetor.java,7\b\7bb9ea3e3dd7fae6254e726248bc5d68f3d4fdcb
