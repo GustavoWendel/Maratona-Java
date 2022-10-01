@@ -21,7 +21,7 @@ public class PesquisaVetor {
 			}
 		}
 		
-		if (achou == false) {
+		if (!achou) {
 			System.out.println("O número não está no vetor\n");
 		}
 
